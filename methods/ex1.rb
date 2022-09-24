@@ -7,7 +7,6 @@ end
 
 greeting(name)
 
-
 def (greeting)
      "Hello," + name + ". How are you doing?"
 end
